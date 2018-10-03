@@ -1,0 +1,32 @@
+#wrapper{
+    width: 900px;
+    outline: 1px solid #787274;
+    padding: 10px;
+    margin: 0 auto;
+	}
+#header{
+    height: 80px;
+    background: #25b33f;
+    margin-bottom: 10px;
+	}
+#sidebar{
+    background-color: #2ff553;
+    margin-bottom: 10px;
+    width: 180px;
+    padding: 10px;
+	float: right;
+	}
+#content{
+    background: #9ef7af;
+	margin-bottom: 10px;
+	width: 670px;
+	padding: 10px;
+	}
+#footer{
+    height: 80px;
+    background: #41874e;
+    margin-bottom: 10px;
+	}
+ .clear{
+	clear: both;
+	}
